@@ -1,2 +1,3 @@
-# simple_cnn_computervision
- 
+## Simple CNN for Computer Vision
+
+This very small CNN can serve as an intro to computer vision for someone who has some experience with Python but none with Neural Nets or computer vision. Small model built in tensorflow, can run on almost any computer, no imported datasets, no preprocessing, and clear example uses at the end make this a great doorway into exploring the concept of computer vision.
